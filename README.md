@@ -1,7 +1,7 @@
-Task Itinerary
+## Task Itinerary
 Task Itinerary is a user-friendly task management application that helps users organize their daily tasks effectively. With its intuitive user interface and seamless functionality, users can easily add new tasks, mark tasks as completed, and delete tasks as needed.Built using modern web technologies such as React, Redux, and Tailwind CSS, this app offers a responsive and visually appealing experience across different devices and screen sizes.
 
-Features
+## Features
 Add new tasks to the todo list.
 Mark tasks as completed or incomplete.
 Edit existing tasks.
@@ -22,7 +22,8 @@ Node.js: A JavaScript runtime built on Chrome's V8 JavaScript engine.
 Express: A minimal and flexible Node.js web application framework.
 MongoDB: A NoSQL database for storing user tasks.
 Mongoose: An ODM (Object Data Modeling) library for MongoDB and Node.js.
-Installation
+
+## Installation
 Clone the repository:
 git clone https://github.com/ShivamSikotra11/TodoList.git
 Navigate to the project directory:
