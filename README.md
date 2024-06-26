@@ -25,7 +25,6 @@ Mongoose: An ODM (Object Data Modeling) library for MongoDB and Node.js.
 
 ## Installation
 Clone the repository:
-git clone https://github.com/ShivamSikotra11/TodoList.git
 Navigate to the project directory:
 cd TodoList
 Install dependencies:
